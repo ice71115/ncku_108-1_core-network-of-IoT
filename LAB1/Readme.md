@@ -1,21 +1,21 @@
 # LAB1_Guess_number(GuessTheNumber.aia)
 
-## ¥Ø¼Ð:
-	ÀH¾÷¥Í¦¨¤@­Ó1~100¤§¶¡ªº¾ã¼Æ¡AÅý¨Ï¥ÎªÌ³z¹Ltextbox¿é¤J­n²q´úªº¼Æ¦r¡A¨Ã¥B´£¥Ü¹CÀ¸¶i«×¡C
-## §@ªkor¨BÆJ:
-                  >>write something here<<
+## ç›®æ¨™:
+	éš¨æ©Ÿç”Ÿæˆä¸€å€‹1~100ä¹‹é–“çš„æ•´æ•¸ï¼Œè®“ä½¿ç”¨è€…é€éŽtextboxè¼¸å…¥è¦çŒœæ¸¬çš„æ•¸å­—ï¼Œä¸¦ä¸”æç¤ºéŠæˆ²é€²åº¦ã€‚
+## ä½œæ³•oræ­¥é©Ÿ:
+                 åˆ¤æ–·æ­£ç¢ºçš„æ•´æ•¸èˆ‡ä½¿ç”¨è€…è¼¸å…¥çš„æ•´æ•¸å¤§å°ï¼Œä¸¦è¼¸å‡ºå€é–“
 
 # LAB1_Post_text(HttpPostApplication.aia)
-## ¥Ø¼Ð:
-    ±Ntextbox¤¤ªº¤å¦r¡A¸g¥ÑHTTP POSTªº¤è¦¡¶Ç¨ì¦Û¤v©w¸qªºnode-red server¡A¨Ã±N¦^¶Çªºresponse©ñ¸m¨ìµe­±¤W¡C
+## ç›®æ¨™:
+    å°‡textboxä¸­çš„æ–‡å­—ï¼Œç¶“ç”±HTTP POSTçš„æ–¹å¼å‚³åˆ°è‡ªå·±å®šç¾©çš„node-red serverï¼Œä¸¦å°‡å›žå‚³çš„responseæ”¾ç½®åˆ°ç•«é¢ä¸Šã€‚
 
-## §@ªkor¨BÆJ:
-                  >>write something here<<
+## ä½œæ³•oræ­¥é©Ÿ:
+                  å°‡ä½¿ç”¨è€…è¼¸å…¥çš„åå­—è½‰æˆjsonæ ¼å¼ï¼Œä¸¦å‚³åˆ°serverï¼Œä¸¦ç­‰å¾…serverå›žå‚³
 
 # LAB1_flow(Lab1_flow.json)
 
-## ¥Ø¼Ð:
-    ±µ¦¬¨Ó¦ÛLAB1_POST_textªºhttp request¡A¦^¶Ç"Hello"¥[¤W¦¬¨ì°T®§name
+## ç›®æ¨™:
+    æŽ¥æ”¶ä¾†è‡ªLAB1_POST_textçš„http requestï¼Œå›žå‚³"Hello"åŠ ä¸Šæ”¶åˆ°è¨Šæ¯name
     
-## §@ªkor¨BÆJ:
-                  >>write something here<<
+## ä½œæ³•oræ­¥é©Ÿ:
+                  å°‡æ”¶åˆ°çš„jsonæ ¼å¼ è½‰æˆä½¿ç”¨è€…çš„åç¨± ä¸¦åœ¨å‰é¢åŠ å…¥hellp
