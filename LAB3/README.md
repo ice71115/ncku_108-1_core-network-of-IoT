@@ -48,6 +48,6 @@
 	3. 開啟 /getxmlfile Server 負責讀取先前儲存的資料
     
 ## 作法or步驟:
-                  NA藉由訂閱方式將gscl/MYSENSOR/DATA中新的contentInsatnace 儲存起來
-		  並可用get方法讀取
+		NA藉由訂閱方式將gscl/MYSENSOR/DATA中新的contentInsatnace 儲存起來
+		並可用get方法讀取
 	
