@@ -1,6 +1,6 @@
 # LAB3_OM2M with Postman
-## ¥Ø¼Ð:
-    ¨Ï¥ÎPostman¤À§O«Ø¥ß¥H¤UEntities
+## ç›®æ¨™:
+    ä½¿ç”¨Postmanåˆ†åˆ¥å»ºç«‹ä»¥ä¸‹Entities
 	1. Create a "MY_SENSOR" Application
 		2. Create a "DESCRIPTOR" container
 			3. Create a "DESCRIPTOR contentInsances"
@@ -8,38 +8,42 @@
 			5. Create a "DATA contentInsances"
 			6. Create a "Subscription" contact to localhost:1400/monitor
 
-## §@ªkor¨BÆJ:
-                  >>write something here<<
-
+## ä½œæ³•oræ­¥é©Ÿ:
+                  ä½¿ç”¨Postmanå»ºç«‹å¥½ä»¥ä¸ŠEntitieså¾Œï¼Œåªè¦å»ºç«‹æ–°çš„"DATA contentInsances"ï¼ŒGAå°±æœƒé€šçŸ¥monitoræ”¶åˆ°çš„"DATA contentInsances"
 
 
 
 # LAB3_OM2M  GA with Node-red
-## ¥Ø¼Ð:
-    ¨Ï¥Î node-red ¦bGSCL¤À§O«Ø¥ß¥H¤U Entities
+## ç›®æ¨™:
+    ä½¿ç”¨ node-red åœ¨GSCLåˆ†åˆ¥å»ºç«‹ä»¥ä¸‹ Entities
 	1. Create a "MY_SENSOR" Application
 		2. Create a "DESCRIPTOR" container
 			3. Create a "DESCRIPTOR contentInsances"
 		4. Create a "DATA" container
 			5. Create a "DATA contentInsances"
-	6. ¦b GA(node-red) ¶}±Ò /sensorData Server ­t³dÂà¶Ç data ¨ì OM2M
+	6. åœ¨ GA(node-red) é–‹å•Ÿ /sensorData Server è² è²¬è½‰å‚³ data åˆ° OM2M
 	
 
-## §@ªkor¨BÆJ:
-                  >>write something here<<
+## ä½œæ³•oræ­¥é©Ÿ:
+                Create a "MY_SENSOR" Application
+		Create a "DESCRIPTOR" container
+		Create a "DESCRIPTOR contentInsances"
+		Create a "DATA" container
+		Create a "DATA contentInsances"
+		
 
 
 
 
 
 # LAB3_OM2M  NA with Node-red
-## ¥Ø¼Ð:
+## ç›®æ¨™:
     	
 
-    ¨Ï¥Î node-red ¦b NSCL ¤À§O«Ø¥ß¥H¤U Entities
+    ä½¿ç”¨ node-red åœ¨ NSCL åˆ†åˆ¥å»ºç«‹ä»¥ä¸‹ Entities
 	1. Create a "MY_NETWORK_APPLICATION"
-	2. Subscribe new contentInsatnace in the   gscl/MYSENSOR/DATA ¨ÃÀx¦s
-	3. ¶}±Ò /getxmlfile Server ­t³dÅª¨ú¥ý«eÀx¦sªº¸ê®Æ
+	2. Subscribe new contentInsatnace in the   gscl/MYSENSOR/DATA ä¸¦å„²å­˜
+	3. é–‹å•Ÿ /getxmlfile Server è² è²¬è®€å–å…ˆå‰å„²å­˜çš„è³‡æ–™
     
-## §@ªkor¨BÆJ:
+## ä½œæ³•oræ­¥é©Ÿ:
                   >>write something here<<
