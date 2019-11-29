@@ -25,11 +25,13 @@
 	
 
 ## 作法or步驟:
-                Create a "MY_SENSOR" Application
+		Create a "MY_SENSOR" Application
 		Create a "DESCRIPTOR" container
 		Create a "DESCRIPTOR contentInsances"
 		Create a "DATA" container
 		Create a "DATA contentInsances"
+		建立好以上Entities後，GA可將收到的data作處理，並建立"DATA contentInsances"
+		
 		
 
 
@@ -46,4 +48,6 @@
 	3. 開啟 /getxmlfile Server 負責讀取先前儲存的資料
     
 ## 作法or步驟:
-                  >>write something here<<
+                  NA藉由訂閱方式將gscl/MYSENSOR/DATA中新的contentInsatnace 儲存起來
+		  並可用get方法讀取
+	
